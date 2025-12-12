@@ -1,0 +1,451 @@
+[
+  {
+    "id": "596c57a8944e4fc999b455928fc324f8",
+    "project_id": "Project-001",
+    "column_id": "K1",
+    "timestamp": "2025-09-28T08:24:30",
+    "image_url": "/uploads/20250928_082428_55bdff.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "Severe",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "Project-001",
+        "column_id": "K1",
+        "level": "2",
+        "grid": "As A1",
+        "location": "Lobby Area",
+        "timestamp": "2025-09-28T08:24:30"
+      }
+    ],
+    "meta": {
+      "project_id": "Project-001",
+      "project_name": "RSK Dharmais",
+      "column_id": "K1",
+      "level": "2",
+      "grid": "As A1",
+      "location": "Lobby Area",
+      "dimensions_mm": {
+        "width": 400.0,
+        "depth": 600.0
+      },
+      "material_spec": "K-300",
+      "year_of_construction": 2025,
+      "defect_side": "East",
+      "inspection_date": "2025-06-25",
+      "inspector": "Arkan",
+      "column_type": "Main Column",
+      "notes": "Nothing",
+      "coordinates_mm": {
+        "x": 12500.0,
+        "y": 8000.0,
+        "z": 6000.0
+      }
+    }
+  },
+  {
+    "id": "6e85a26d2bf145bfa1cf12a8cd295a8b",
+    "project_id": "Project-001",
+    "column_id": "K1",
+    "timestamp": "2025-09-17T07:43:06",
+    "image_url": "/uploads/20250917_074303_90b32d.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "Severe",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "Project-001",
+        "column_id": "K1",
+        "level": "2",
+        "grid": "As A1",
+        "location": "Lobby Area",
+        "timestamp": "2025-09-17T07:43:06"
+      }
+    ],
+    "meta": {
+      "project_id": "Project-001",
+      "project_name": "RSK Dharmais",
+      "column_id": "K1",
+      "level": "2",
+      "grid": "As A1",
+      "location": "Lobby Area",
+      "dimensions_mm": {
+        "width": 400.0,
+        "depth": 600.0
+      },
+      "material_spec": "K-300",
+      "year_of_construction": 2025,
+      "defect_side": "East",
+      "inspection_date": "2025-09-17",
+      "inspector": "Arkan",
+      "column_type": "Main Column",
+      "notes": "Nothing",
+      "coordinates_mm": {
+        "x": 12500.0,
+        "y": 8000.0,
+        "z": 6000.0
+      }
+    }
+  },
+  {
+    "id": "5bddff6f69f040da913183d81c3af544",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-16T15:14:04",
+    "image_url": "/uploads/20250916_151400_0cf483.jpg",
+    "image_width": 335,
+    "image_height": 500,
+    "items": [
+      {
+        "bbox": [
+          74,
+          110,
+          260,
+          294
+        ],
+        "conf": 0.9792100787162781,
+        "cls": "Segregation_Severe",
+        "severity": "Severe",
+        "solution": "Pengecoran ulang area sangat tidak homogen / koreksi mix.",
+        "keterangan": "Indikator:\n• Pemisahan lapisan jelas\n• Berpotensi retak/kelemahan lokal\n\nCiri Visual:\n• Gradasi warna/tekstur\n• Pemisahan lapisan vertikal\n• Permukaan tidak homogen",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-16T15:14:04"
+      }
+    ],
+    "meta": {
+      "project_id": "PRJ-001",
+      "project_name": null,
+      "column_id": "K-01",
+      "level": null,
+      "grid": null,
+      "location": null,
+      "dimensions_mm": null,
+      "material_spec": null,
+      "year_of_construction": null,
+      "defect_side": null,
+      "inspection_date": null,
+      "inspector": null,
+      "column_type": null,
+      "notes": null,
+      "coordinates_mm": null
+    }
+  },
+  {
+    "id": "fff9f3147d2340cbbb78158f0227a90e",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-11T14:11:07",
+    "image_url": "/uploads/20250911_141106_f437f4.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "berat",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T14:11:07"
+      }
+    ]
+  },
+  {
+    "id": "af349833f3af4509b34bee6dab72230f",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-11T13:41:03",
+    "image_url": "/uploads/20250911_134103_2fc818.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "berat",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T13:41:03"
+      }
+    ]
+  },
+  {
+    "id": "bddec7c3ac6c4e048394e69045f2e19b",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-11T13:27:17",
+    "image_url": "/uploads/20250911_132714_6611cb.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "berat",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T13:27:17"
+      }
+    ]
+  },
+  {
+    "id": "51fc3f775c144bd99c2fe5bbf0fda544",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-11T10:15:51",
+    "image_url": "/uploads/20250911_101551_94c51d.jpg",
+    "image_width": 408,
+    "image_height": 612,
+    "items": [
+      {
+        "bbox": [
+          33,
+          63,
+          168,
+          605
+        ],
+        "conf": 0.7559795379638672,
+        "cls": "Crack_Severe",
+        "severity": "berat",
+        "solution": "Epoxy injection + penguatan eksternal (CFRP/plating) atau rekonstruksi bagian bila perlu.",
+        "keterangan": "Indikator:\n• Lebar >1 mm\n• Menyilang/menyebar lebar\n• Menembus memanjang/keliling penampang\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          39,
+          86,
+          114,
+          603
+        ],
+        "conf": 0.6548751592636108,
+        "cls": "Crack_Severe",
+        "severity": "berat",
+        "solution": "Epoxy injection + penguatan eksternal (CFRP/plating) atau rekonstruksi bagian bila perlu.",
+        "keterangan": "Indikator:\n• Lebar >1 mm\n• Menyilang/menyebar lebar\n• Menembus memanjang/keliling penampang\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          144,
+          156,
+          171,
+          219
+        ],
+        "conf": 0.6198066473007202,
+        "cls": "Crack_Severe",
+        "severity": "sedang",
+        "solution": "Epoxy injection; V-cut sepanjang retak, lalu injeksi epoksi untuk merekatkan kembali struktur.",
+        "keterangan": "Indikator:\n• Lebar 0.3–1 mm\n• Mulai bercabang/menyebar\n• Sering di area tegangan tinggi\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          47,
+          394,
+          94,
+          603
+        ],
+        "conf": 0.4699079096317291,
+        "cls": "Crack_Severe",
+        "severity": "berat",
+        "solution": "Epoxy injection + penguatan eksternal (CFRP/plating) atau rekonstruksi bagian bila perlu.",
+        "keterangan": "Indikator:\n• Lebar >1 mm\n• Menyilang/menyebar lebar\n• Menembus memanjang/keliling penampang\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          77,
+          226,
+          113,
+          410
+        ],
+        "conf": 0.36943790316581726,
+        "cls": "Crack_Severe",
+        "severity": "berat",
+        "solution": "Epoxy injection + penguatan eksternal (CFRP/plating) atau rekonstruksi bagian bila perlu.",
+        "keterangan": "Indikator:\n• Lebar >1 mm\n• Menyilang/menyebar lebar\n• Menembus memanjang/keliling penampang\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          88,
+          47,
+          133,
+          134
+        ],
+        "conf": 0.3685605525970459,
+        "cls": "Crack_Severe",
+        "severity": "sedang",
+        "solution": "Epoxy injection; V-cut sepanjang retak, lalu injeksi epoksi untuk merekatkan kembali struktur.",
+        "keterangan": "Indikator:\n• Lebar 0.3–1 mm\n• Mulai bercabang/menyebar\n• Sering di area tegangan tinggi\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      },
+      {
+        "bbox": [
+          76,
+          222,
+          120,
+          523
+        ],
+        "conf": 0.3510042428970337,
+        "cls": "Crack_Severe",
+        "severity": "berat",
+        "solution": "Epoxy injection + penguatan eksternal (CFRP/plating) atau rekonstruksi bagian bila perlu.",
+        "keterangan": "Indikator:\n• Lebar >1 mm\n• Menyilang/menyebar lebar\n• Menembus memanjang/keliling penampang\n\nCiri Visual:\n• Ukur lebar retak dari bbox\n• Perhatikan tekstur & kontras retak",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:51"
+      }
+    ]
+  },
+  {
+    "id": "d6bb697adf7c4fa1ac530508b0ad3fb6",
+    "project_id": "PRJ-001",
+    "column_id": "K-02",
+    "timestamp": "2025-09-11T10:15:22",
+    "image_url": "/uploads/20250911_101522_44a356.jpg",
+    "image_width": 335,
+    "image_height": 500,
+    "items": [
+      {
+        "bbox": [
+          74,
+          110,
+          260,
+          294
+        ],
+        "conf": 0.9792100787162781,
+        "cls": "Segregation_Severe",
+        "severity": "berat",
+        "solution": "Pengecoran ulang area sangat tidak homogen / koreksi mix.",
+        "keterangan": "Indikator:\n• Pemisahan lapisan jelas\n• Berpotensi retak/kelemahan lokal\n\nCiri Visual:\n• Gradasi warna/tekstur\n• Pemisahan lapisan vertikal\n• Permukaan tidak homogen",
+        "project_id": "PRJ-001",
+        "column_id": "K-02",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T10:15:22"
+      }
+    ]
+  },
+  {
+    "id": "b4b9f7d8fdb64aecb3c15e84fc9db4d0",
+    "project_id": "PRJ-001",
+    "column_id": "K-01",
+    "timestamp": "2025-09-11T09:59:50",
+    "image_url": "/uploads/20250911_095946_ebbdc0.jpg",
+    "image_width": 1000,
+    "image_height": 756,
+    "items": [
+      {
+        "bbox": [
+          311,
+          2,
+          710,
+          702
+        ],
+        "conf": 0.9152024984359741,
+        "cls": "Honeycomb_Severe",
+        "severity": "berat",
+        "solution": "Grouting/perbaikan besar (cakupan/volume lebih besar).",
+        "keterangan": "Indikator:\n• Rongga >30 mm, dalam\n• Agregat besar tampak/rebar dekat permukaan\n\nCiri Visual:\n• Area berpori + agregat terlihat\n• Permukaan kasar/tidak rata\n• Area gelap/dalam (shadow)",
+        "project_id": "PRJ-001",
+        "column_id": "K-01",
+        "level": "",
+        "grid": "",
+        "location": "",
+        "timestamp": "2025-09-11T09:59:50"
+      }
+    ]
+  }
+]

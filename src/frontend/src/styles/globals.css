@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ====== Tokens (palette) ====== */
+:root{
+  --c-bg: #F5F7F8;    /* background */
+  --c-accent: #F4CE14;/* kuning */
+  --c-muted: #495E57; /* hijau kebiruan */
+  --c-primary: #45474B;/* hitam/abu gelap */
+
+  --bg: var(--c-bg);
+  --text: #101113;
+  --primary: var(--c-primary);
+  --accent: var(--c-accent);
+  --muted: #667085;   /* teks muted general */
+}
+
+@layer base{
+  html,body{ @apply bg-[color:var(--bg)] text-[color:var(--text)] antialiased; }
+}
+
+/* ====== Utilities ====== */
+@layer utilities{
+  .text-primary{ color: var(--c-primary); }
+  .text-accent{ color: var(--c-accent); }
+  .text-muted{ color: var(--muted); }
+  .bg-primary{ background-color: var(--c-primary); }
+  .bg-accent{ background-color: var(--c-accent); }
+  .bg-bg{ background-color: var(--bg); }
+}
+
+/* ====== Components ====== */
+@layer components{
+  .card{ @apply rounded-2xl border border-zinc-200 bg-white p-5 shadow-sm; }
+  .section-title{ @apply text-base font-semibold tracking-tight text-primary; }
+
+  .navlink{
+    @apply inline-flex items-center gap-1 rounded-lg px-3 py-2 text-sm font-medium text-primary hover:text-accent transition-colors;
+  }
+
+  .btn{
+    @apply inline-flex items-center gap-2 rounded-lg bg-primary px-4 py-2 text-xs font-medium text-white shadow hover:opacity-90 disabled:opacity-60 disabled:cursor-not-allowed;
+  }
+  .btn-outline{
+    @apply inline-flex items-center gap-2 rounded-lg border border-zinc-300 bg-white px-4 py-2 text-xs font-medium text-primary hover:bg-zinc-50;
+  }
+
+  .input{
+    @apply w-full rounded-lg border border-zinc-300 bg-white px-3 py-2 text-sm outline-none;
+  }
+  .input:focus{
+    border-color: var(--c-accent);
+    box-shadow: 0 0 0 3px rgba(244,206,20,0.28);
+  }
+
+  .label{ @apply text-xs text-muted; }
+
+  .chip{ @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-[11px] font-medium; }
+  .tag{ @apply inline-flex items-center rounded-sm px-2 py-0.5 text-[11px] font-medium; }
+
+  .empty{ @apply inline-flex items-center gap-2 rounded-lg border border-dashed border-zinc-300 bg-zinc-50 px-3 py-2 text-xs text-muted; }
+}
+
+/* loader kecil */
+.loader{
+  width: 16px; height: 16px;
+  border: 2px solid #e5e7eb; border-top-color: var(--c-accent);
+  border-radius: 50%; animation: spin .8s linear infinite;
+}
+@keyframes spin{ to{ transform: rotate(360deg) } }

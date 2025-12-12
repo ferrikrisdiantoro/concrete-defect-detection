@@ -1,0 +1,8 @@
+Keterangan Tools yang dipakai
+1. python 3.11.9
+
+Langkah-langkah menjalankan backend
+1. python -m venv .venv
+2. .venv\Scripts\activate
+3. pip install -r requirements.txt
+4. uvicorn app:app --reload
