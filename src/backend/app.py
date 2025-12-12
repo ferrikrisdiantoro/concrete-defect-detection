@@ -31,10 +31,18 @@ log = logging.getLogger("crack-detector")
 # -----------------------------------------------------------------------------
 # KONFIG TANPA ENV (hardcoded)
 # -----------------------------------------------------------------------------
-# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# MODEL_PATH = os.path.join(BASE_DIR, "crack-detection-model.onnx")
-# Path relative to src/backend/app.py -> root -> models/production
-MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "models", "production", "crack-detection-model.onnx")
+# Path configuration
+# 1. Cek path spesifik PythonAnywhere (User Request)
+PA_MODEL_PATH = "/home/bintang/crack-detection/backend/crack-detection-model.onnx"
+
+if os.path.exists(PA_MODEL_PATH):
+    MODEL_PATH = PA_MODEL_PATH
+    log.info(f"Using PythonAnywhere Model Path: {MODEL_PATH}")
+else:
+    # 2. Fallback: Path relative untuk Local Development (Monorepo)
+    # src/backend/app.py -> root -> models/production
+    MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "models", "production", "crack-detection-model.onnx")
+    log.info(f"Using Local Monorepo Model Path: {MODEL_PATH}")
 
 CONF_THRESHOLD = 0.10
 IOU_THRESHOLD = 0.45
