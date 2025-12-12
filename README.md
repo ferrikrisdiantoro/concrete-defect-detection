@@ -1,7 +1,7 @@
-# Structural Vision AI 🏗️
+# concrete-defect-detection 🏗️
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=AI-Powered+Concrete+Defect+Detection;Enterprise+Structural+Health+Monitoring;BIM+Ready+%26+Automated+Reporting;Built+with+FastAPI+%2B+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=concrete-defect-detection;Enterprise+Structural+Health+Monitoring;BIM+Ready+%26+Automated+Reporting;Built+with+FastAPI+%2B+React" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 About The Project
 
-**Structural Vision AI** is an enterprise-grade platform designed to automate the inspection of civil infrastructure. It leverages advanced Computer Vision to identify, classify, and assess the severity of structural defects in concrete columns.
+**concrete-defect-detection** is an enterprise-grade platform designed to automate the inspection of civil infrastructure. It leverages advanced Computer Vision to identify, classify, and assess the severity of structural defects in concrete columns.
 
 Designed for **Civil Engineers** and **Inspectors**, it transforms manual, error-prone visual inspections into a digital, auditable, and quantifiable workflow.
 
